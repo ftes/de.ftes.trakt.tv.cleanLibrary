@@ -1,5 +1,5 @@
-de.ftes.trakt.tv.cleanLibrary
-=============================
+Cleaning your trakt.tv library
+==============================
 
 Clean the trakt.tv library by removing all movies and shows
 
