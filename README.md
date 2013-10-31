@@ -4,7 +4,7 @@ de.ftes.trakt.tv.cleanLibrary
 Clean the trakt.tv library by removing all movies and shows
 
 
-Instractions
+Instructions
 ------------
 
 Before calling the script, create a trakt-auth.json in the same directory with the following content:
