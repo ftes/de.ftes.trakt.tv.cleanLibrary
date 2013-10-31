@@ -1,3 +1,6 @@
+# Authentication file
+trakt-auth.json
+
 *.py[cod]
 
 # C extensions
